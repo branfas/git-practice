@@ -1,6 +1,6 @@
 # A Very Serious Syllabus
 
-*You will have to complete all readings to pass this course.*
+## *You will have to complete all readings to pass this course.*
 
 **Complete the readings before class!**
 
