@@ -12,7 +12,7 @@ Office: PH352YY
 
 Find more information at [Queens College, CUNY](https://www.qc.cuny.edu)
 
-## Readings 
+## Readings for the course
 
 ### Week 1
 - Reading one 
