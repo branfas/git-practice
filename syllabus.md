@@ -28,3 +28,13 @@ Find more information at [Queens College, CUNY](https://www.qc.cuny.edu)
 - Reading one 
 - Reading two
 - Reading three
+
+### Week 4
+- Reading one
+- Reading two
+- Reading three
+
+### Week 5 
+- Reading one
+- Reading two
+- Reading three
