@@ -4,7 +4,7 @@
 
 **Complete the readings before class!**
 
-### Professor Francesca Bregoli
+### **Professor Francesca Bregoli**
 
 Time: MW 10:40-12 \
 Office hours: 12:15-1:15 \
