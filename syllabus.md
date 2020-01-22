@@ -10,7 +10,7 @@ Time: MW 10:40-12 \
 Office hours: 12:15-1:15 \
 Office: PH352YY 
 
-Find more information at [Queens College, CUNY](https://www.qc.cuny.edu)
+ Find more information at [Queens College, CUNY](https://www.qc.cuny.edu)
 
 ## Readings for the course
 
