@@ -38,3 +38,8 @@ Find more information at [Queens College, CUNY](https://www.qc.cuny.edu)
 - Reading one
 - Reading two
 - Reading three
+
+### Week 6
+- Reading one
+- Reading two
+- Reading three
